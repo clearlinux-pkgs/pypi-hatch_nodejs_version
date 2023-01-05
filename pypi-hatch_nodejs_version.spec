@@ -4,7 +4,7 @@
 #
 Name     : pypi-hatch_nodejs_version
 Version  : 0.3.1
-Release  : 5
+Release  : 6
 URL      : https://files.pythonhosted.org/packages/1a/f7/e563b874c1ebd181e002b56801562516408fa1ff12bbba4f803faa4f433b/hatch_nodejs_version-0.3.1.tar.gz
 Source0  : https://files.pythonhosted.org/packages/1a/f7/e563b874c1ebd181e002b56801562516408fa1ff12bbba4f803faa4f433b/hatch_nodejs_version-0.3.1.tar.gz
 Summary  : Hatch plugin for versioning from a package.json file
